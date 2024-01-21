@@ -237,7 +237,7 @@ let wordList = [
 	},
 	{
 		theme: "theater",
-		words: ["play", "scene", "script", "musical"],
+		words: ["neuro", "neuros", "neurons", "neuronal"],
 	},
 	{
 		theme: "film",
