@@ -22,5 +22,6 @@ function getDayDifference() {
 
 let dayDifference = getDayDifference();
 
-let wordsForTheDay = wordList[dayDifference % wordList.length];
+// let wordsForTheDay = wordList[dayDifference % wordList.length];
+let wordsForTheDay = wordList[1];
 let puzzleNumber = (dayDifference % wordList.length) + 1;
