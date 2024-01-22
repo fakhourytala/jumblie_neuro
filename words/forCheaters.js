@@ -236,7 +236,7 @@ let wordList = [
 		words: ["jazz", "swing", "tango", "ballet"],
 	},
 	{
-		theme: "theater",
+		theme: "neuro1",
 		words: ["neur", "neuro", "neuron", "neurons"],
 	},
 	{
@@ -436,7 +436,7 @@ let wordList = [
 		words: ["note", "rhythm", "treble", "harmony"],
 	},
 	{
-		theme: "theater",
+		theme: "neuro2",
 		words: ["neur", "neuro", "neuron", "neurons"],
 	},
 	{
