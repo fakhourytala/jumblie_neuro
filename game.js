@@ -299,7 +299,7 @@ function win() {
 	let finalTime = endGame();
 	scoreString += `\n${guessedWords} guesses in ${convertTimeHMS(
 		finalTime
-	)}\nhttps://jumblie.com`;
+	)}\nhttps://neurojumblie.com`;
 
 	updateStreakAndFastestTimes(
 		convertTimeToMilliseconds(finalTime),
@@ -337,7 +337,7 @@ function giveUp() {
 	let finalTime = endGame();
 	scoreString += `\nI gave up after ${guessedWords} guesses in ${convertTimeHMS(
 		finalTime
-	)}\nhttps://jumblie.com`;
+	)}\nhttps://neurojumblie.com`;
 
 	updateStreakAndFastestTimes(null, scoreString);
 
@@ -416,7 +416,7 @@ function shareLink() {
 			.share({
 				title: "Jumblie",
 				text: scoreString,
-				url: "https://jumblie.com",
+				url: "https://neurojumblie.com",
 			})
 			.then(() => console.log("Successful share"))
 			.catch((error) => console.log("Error sharing", error));
