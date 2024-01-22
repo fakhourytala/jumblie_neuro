@@ -1,5 +1,9 @@
 let wordList = [
 	{
+		theme: "neuroscience",
+		words: ["brain", "neuron", "firing", "synapse"],
+	},
+	{
 		theme: "ocean",
 		words: ["crab", "beach", "dolphin", "seahorse"],
 	},
@@ -434,10 +438,6 @@ let wordList = [
 	{
 		theme: "music",
 		words: ["note", "rhythm", "treble", "harmony"],
-	},
-	{
-		theme: "neurosciene",
-		words: ["brain", "neuron", "firing", "synapse"],
 	},
 	{
 		theme: "literature",
