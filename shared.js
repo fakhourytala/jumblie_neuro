@@ -1,9 +1,9 @@
 function playJumblie(str) {
-	window.location.href = `https://jumblie.com/?utm_campaign=${str}&utm_source=${str}`;
+	window.location.href = `https://neurojumblie.com/?utm_campaign=${str}&utm_source=${str}`;
 }
 
 function suggestAgain() {
-	window.location.href = `https://jumblie.com/suggest/`;
+	window.location.href = `https://neurojumblie.com/suggest/`;
 }
 
 function shareLink() {
