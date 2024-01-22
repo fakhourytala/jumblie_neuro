@@ -1,5 +1,5 @@
 // Date of start, gonna just say October 4, 2023 for now
-const startDate = new Date("January 21, 2024");
+const startDate = new Date("January 20, 2024");
 
 function getCurrentDate() {
 	let now = new Date();
@@ -23,5 +23,5 @@ function getDayDifference() {
 let dayDifference = getDayDifference();
 
 // let wordsForTheDay = wordList[dayDifference % wordList.length];
-let wordsForTheDay = wordList[0];
+let wordsForTheDay = wordList[3];
 let puzzleNumber = (dayDifference % wordList.length) + 1;
