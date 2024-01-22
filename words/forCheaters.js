@@ -436,8 +436,8 @@ let wordList = [
 		words: ["note", "rhythm", "treble", "harmony"],
 	},
 	{
-		theme: "neuro2",
-		words: ["neur", "neuro", "neuron", "neurons"],
+		theme: "neurosciene",
+		words: ["brain", "neuron", "firing", "synapse"],
 	},
 	{
 		theme: "literature",
