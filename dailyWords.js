@@ -1,5 +1,5 @@
 // Date of start, gonna just say October 4, 2023 for now
-const startDate = new Date("January 22, 2024");
+const startDate = new Date("January 21, 2024");
 
 function getCurrentDate() {
 	let now = new Date();
