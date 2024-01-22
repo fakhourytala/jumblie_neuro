@@ -24,6 +24,6 @@ let dayDifference = getDayDifference();
 
 // let wordsForTheDay = wordList[dayDifference % wordList.length];
 // number of the neuro - jumblie
-let puzzleId = 3;
+let puzzleId = 2;
 let wordsForTheDay = wordList[puzzleId];
 let puzzleNumber = (dayDifference % wordList.length) + 1;
