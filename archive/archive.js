@@ -7,7 +7,7 @@
 
 function addWordsToArchive() {
 	// let dayDifference = getDayDifference();
-	let dayDifference = 0;
+	let dayDifference = 2;
 	let archive = document.getElementById("archivecontainer");
 
 	for (let i = dayDifference - 1; i >= 0; i--) {
