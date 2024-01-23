@@ -5,7 +5,7 @@ let wordList = [
 	},
 	{
 		theme: "ocean",
-		words: ["crab", "beach", "dolphin", "seahorse"],
+		words: ["crab", "beach", "dolphin", "seahorss"],
 	},
 	{
 		theme: "desert",
