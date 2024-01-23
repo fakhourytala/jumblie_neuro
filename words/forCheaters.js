@@ -4,19 +4,19 @@ let wordList = [
 		words: ["brain", "neuron", "firing", "synapse"],
 	},
 	{
-		theme: "ocean",
-		words: ["crab", "beach", "dolphin", "seahorse"],
+		theme: "vision",
+		words: ["optic", "chiasm", "retinal", "alexnet"],
 	},
 	{
-		theme: "desert",
-		words: ["sand", "snake", "cactus", "drought"],
+		theme: "electrophysiology",
+		words: ["spike", "probe", "record", "electrode"],
 	},
 	{
-		theme: "weather",
-		words: ["wind", "cloud", "sunny", "drizzle"],
+		theme: "theory",
+		words: ["bias", "moment", "matrix", "hebbian"],
 	},
 	{
-		theme: "school",
-		words: ["exam", "friend", "library", "homework"],
+		theme: "neuropathology",
+		words: ["prion", "stroke", "biopsy", "seizure"],
 	},
 ];
