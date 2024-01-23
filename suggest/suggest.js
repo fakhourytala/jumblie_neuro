@@ -38,7 +38,7 @@ function shareLink() {
 			.share({
 				title: "Jumblie",
 				text: "Check out Jumblie, a fun word search game!",
-				url: "https://neurojumblie.com",
+				url: "https://jumblie.com",
 			})
 			.then(() => console.log("Successful share"))
 			.catch((error) => console.log("Error sharing", error));
