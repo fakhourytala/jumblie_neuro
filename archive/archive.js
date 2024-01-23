@@ -6,7 +6,8 @@
 })();
 
 function addWordsToArchive() {
-	let dayDifference = getDayDifference();
+	// let dayDifference = getDayDifference();
+	let dayDifference = 4;
 	let archive = document.getElementById("archivecontainer");
 
 	for (let i = dayDifference - 1; i >= 0; i--) {
