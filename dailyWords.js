@@ -20,11 +20,12 @@ function getDayDifference() {
 	return Math.floor(timeDifference / (1000 * 60 * 60 * 24));
 }
 
-let dayDifference = getDayDifference();
-
+// let dayDifference = getDayDifference();
 // let wordsForTheDay = wordList[dayDifference % wordList.length];
 // let puzzleNumber = (dayDifference % wordList.length) + 1;
+
 // number of the neuro - jumblie
-let puzzleId = 1;
-let wordsForTheDay = wordList[puzzleId];
-let puzzleNumber = puzzleId + 1;
+let dayDifference = 2;
+let puzzleId = 4;
+let wordsForTheDay = wordList[puzzleId]-1;
+let puzzleNumber = puzzleId;
