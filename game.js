@@ -18,7 +18,7 @@ let selectedButtons = [];
 let guessedWords = 0;
 let wrongGuesses = 0;
 
-let scoreString = `neuro Jumblie #${puzzleNumber}\n`;
+let scoreString = `Jumblie #${puzzleNumber}\n`;
 
 const letterMap = {};
 
