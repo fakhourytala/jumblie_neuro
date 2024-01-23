@@ -9,7 +9,7 @@ let wordList = [
 	},
 	{
 		theme: "desert",
-		words: ["sand", "snake", "cactus", "drought"],
+		words: ["sand", "snake", "cactus", "droughtaaa"],
 	},
 	{
 		theme: "weather",
