@@ -5,11 +5,11 @@ let wordList = [
 	},
 	{
 		theme: "ocean",
-		words: ["crab", "beach", "dolphin", "seahorse"],
+		words: ["crab", "beach", "dolphin", "seahorsess"],
 	},
 	{
 		theme: "desert",
-		words: ["sand", "snake", "cactus", "droughtaaa"],
+		words: ["sand", "snake", "cactus", "drought"],
 	},
 	{
 		theme: "weather",
