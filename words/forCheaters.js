@@ -1,11 +1,11 @@
 let wordList = [
 	{
-		theme: "vision",
-		words: ["optic", "chiasm", "retinal", "saccade"],
-	},
-	{
 		theme: "neuroscience",
 		words: ["brain", "neuron", "firing", "synapse"],
+	},
+	{
+		theme: "vision",
+		words: ["optic", "chiasm", "retinal", "saccade"],
 	},
 	{
 		theme: "electrophysiology",
