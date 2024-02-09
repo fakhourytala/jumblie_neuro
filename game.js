@@ -18,7 +18,7 @@ let selectedButtons = [];
 let guessedWords = 0;
 let wrongGuesses = 0;
 
-let scoreString = `Jumblie #${puzzleNumber}\n`;
+let scoreString = `Neuro Jumblie #${puzzleNumber}\n`;
 
 const letterMap = {};
 
@@ -414,7 +414,7 @@ function shareLink() {
 	if (navigator.share) {
 		navigator
 			.share({
-				title: "Jumblie",
+				title: "Neuro Jumblie",
 				text: scoreString,
 				url: "https://neurojumblie.com",
 			})
