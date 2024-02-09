@@ -13,7 +13,7 @@ let wordList = [
 	},
 	{
 		theme: "memory",
-		words: ["grid", "store", "forget", "retrieval"],
+		words: ["place", "store", "forget", "retrieval"],
 	},
 	{
 		theme: "chaos",
