@@ -10,7 +10,7 @@ function shareLink() {
 	if (navigator.share) {
 		navigator
 			.share({
-				title: "Jumblie",
+				title: "Neuro Jumblie",
 				text: "Check out Jumblie, a fun word search game!",
 				url: "https://neurojumblie.com",
 			})
