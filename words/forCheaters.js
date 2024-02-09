@@ -12,12 +12,12 @@ let wordList = [
 		words: ["spike", "probe", "record", "electrode"],
 	},
 	{
-		theme: "chaos",
-		words: ["lorenz", "fractal", "dynamics", "bifurcate"],
+		theme: "memory",
+		words: ["grid", "store", "forget", "retrieval"],
 	},
 	{
-		theme: "theory",
-		words: ["bias", "moment", "matrix", "hebbian"],
+		theme: "chaos",
+		words: ["lorenz", "fractal", "dynamics", "bifurcate"],
 	},
 	{
 		theme: "neuropathology",
