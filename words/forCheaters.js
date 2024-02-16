@@ -16,6 +16,10 @@ let wordList = [
 		words: ["place", "store", "forget", "retrieval"],
 	},
 	{
+		theme: "macaque",
+		words: ["task", "reach", "reward", "primate"],
+	},
+	{
 		theme: "chaos",
 		words: ["lorenz", "fractal", "dynamics", "bifurcate"],
 	},
