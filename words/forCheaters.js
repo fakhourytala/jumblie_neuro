@@ -16,7 +16,7 @@ let wordList = [
 		words: ["place", "store", "forget", "retrieval"],
 	},
 	{
-		theme: "macaque",
+		theme: "macaques",
 		words: ["task", "reach", "reward", "primate"],
 	},
 	{
