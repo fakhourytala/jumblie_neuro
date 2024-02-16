@@ -16,8 +16,12 @@ let wordList = [
 		words: ["place", "store", "forget", "retrieval"],
 	},
 	{
+		theme: "motor control", 
+		words: ["plan", "reach", "muscle","movement"],
+	},
+	{
 		theme: "macaques",
-		words: ["task", "reach", "reward", "primate"],
+		words: ["task", "treat", "reward", "primate"], 
 	},
 	{
 		theme: "chaos",
