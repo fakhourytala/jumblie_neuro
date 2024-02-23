@@ -21,7 +21,7 @@ let wordList = [
 	},
 	{
 		theme: "macaques",
-		words: ["task", "treat", "reward", "primate"], 
+		words: ["groom", "treat", "banana", "primate"], 
 	},
 	{
 		theme: "chaos",
