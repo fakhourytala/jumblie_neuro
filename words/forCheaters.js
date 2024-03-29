@@ -29,6 +29,6 @@ let wordList = [
 	},
 	{
 		theme: "neuropathology",
-		words: ["prion", "stroke", "biopsy", "seizure"],
+		words: ["tumor", "stroke", "aphasia", "epilepsy"],
 	},
 ];
