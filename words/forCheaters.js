@@ -28,7 +28,7 @@ let wordList = [
 		words: ["lorenz", "fractal", "dynamics", "bifurcate"],
 	},
 	{
-		theme: "neuropathology",
+		theme: "disorders of the brain",
 		words: ["tumor", "stroke", "aphasia", "epilepsy"],
 	},
 ];
